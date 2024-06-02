@@ -1,0 +1,9 @@
+{
+	"name": "qwe602",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a231bd9c-6343-4e32-a339-18ddc49cac18",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
